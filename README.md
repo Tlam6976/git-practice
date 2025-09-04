@@ -1,8 +1,5 @@
+# Git Practice Repo
+This repository is used to practice Git workflows.
 
-Dòng 1: Giới thiệu dự án bởi A
-Dòng 2: Thông tin chung
-Dòng 3: Cách sử dụng (A chỉnh sửa)
-Dòng 1: Giới thiệu dự án bởi B
-Dòng 2: Thông tin chung
-Dòng 3: Cách sử dụng (B)
-
+- Update from A: Nội dung A đã thêm.
+- Update from B: Nội dung B cũng khác một chút.
