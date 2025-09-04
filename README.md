@@ -1,6 +1,3 @@
-
-Đây là README được chỉnh sửa bởi A.
-Đây là README từ nhánh conflict-demo.
-Thêm nội dung mới từ A.
-
-Hello from MAIN
+Dòng 1: Giới thiệu dự án
+Dòng 2: Thông tin chung
+Dòng 3: Cách sử dụng
