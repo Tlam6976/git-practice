@@ -4,3 +4,4 @@
 Update from feature A
 
 Update from B
+Hello from FEATURE B
