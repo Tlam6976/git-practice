@@ -1,5 +1,5 @@
 
-Đây là README từ nhánh main.
+Đây là README được chỉnh sửa bởi A.
 Đây là README từ nhánh conflict-demo.
-Update from feature A
+Thêm nội dung mới từ A.
 
