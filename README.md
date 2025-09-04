@@ -1,3 +1,3 @@
-Dòng 1: Giới thiệu dự án
+# Dự án Git Practice - B
 Dòng 2: Thông tin chung
-Dòng 3: Cách sử dụng
+Dòng 3: Cách sử dụng (B)
