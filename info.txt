@@ -1,8 +1,5 @@
 Họ và tên: Nguyễn Văn A
-<<<<<<< HEAD
 Sở thích: Đọc sách
-=======
 Sở thích: Chơi thể thao
->>>>>>> feature-update-B
 Kỹ năng: Lập trình
 
