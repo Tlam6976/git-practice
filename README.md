@@ -1,1 +1,2 @@
-Giới thiệu: Tôi là Thái Văn Lam, 221042.
+Đây là README được chỉnh sửa từ nhánh main.
+
