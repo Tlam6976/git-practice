@@ -1,0 +1,74 @@
+[33m08cd67c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mpractice-branch[m[33m)[m Remove exercise1
+D	exercise1.txt
+[33m950aacd[m Rename practice1 to exercise1
+R100	practice1.txt	exercise1.txt
+[33m36e26a3[m Add practice1
+A	practice1.txt
+[33m8b5fcc2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m Finalize updates to README.md and info.txt
+M	README.md
+M	info.txt
+[33ma8c9eb7[m WIP: Save local changes before rebase
+M	README.md
+M	info.txt
+[33m9a20f81[m Add .gitignore to exclude logs
+A	.gitignore
+[33m69728cf[m Update README.md
+M	README.md
+[33m52d621b[m Update info.txt
+M	info.txt
+[33mf7fe5b0[m Update README.md
+M	README.md
+[33m5f0473d[m Update info.txt
+M	info.txt
+[33m5ea21b0[m Update README.md
+M	README.md
+[33mdfe644c[m Resolve conflicts in README.md and info.txt
+[33mecdff01[m[33m ([m[1;31morigin/feature-update-B[m[33m, [m[1;32mfeature-update-B[m[33m)[m Update README and info by B
+M	README.md
+M	info.txt
+[33m96cfd29[m Update README and info by A
+M	README.md
+M	info.txt
+[33m767054e[m Add initial README.md and info.txt
+M	README.md
+M	info.txt
+[33m6cbf021[m[33m ([m[1;31morigin/feature-update-A[m[33m, [m[1;32mfeature-update-A[m[33m)[m Merge branch 'feature-update-A'
+[33m2d2d245[m Update README and info by A
+M	README.md
+M	info.txt
+[33m672f354[m Update from main
+M	README.md
+[33me51b219[m Merge pull request #3 from Tlam6976/feature-update-A
+[33m5de6323[m Update from A
+M	README.md
+[33m73beb62[m Merge pull request #2 from Tlam6976/feature-update-B
+[33maee0425[m Merge branch 'main' into feature-update-B
+[33m19b0051[m Merge pull request #1 from Tlam6976/feature-update-A
+[33mf73d457[m Add update from feature A
+M	README.md
+[33ma0b58b6[m Add update from feature B
+M	README.md
+[33mb1d4cbe[m Resolve conflict in README.md
+[33m718827e[m[33m ([m[1;32mconflict-demo[m[33m)[m Update README from conflict-demo
+M	README.md
+[33m1c4b23f[m Update README from main
+M	README.md
+[33mff8eb2a[m[33m ([m[1;31morigin/conflict-demo[m[33m)[m Update README from conflict-demo
+M	README.md
+[33md78eb3e[m Remove wrongly added repo
+D	first-contributions
+[33m5abc9bf[m Add first-contributions folder
+A	first-contributions
+[33m46f827d[m Update README from main
+M	README.md
+[33m105cf7b[m Add hobbies and skills
+M	info.txt
+[33m2b42477[m Remove hobbies and skills from info.txt
+M	info.txt
+[33m0dba122[m Update info.txt with hobbies and skills
+M	info.txt
+[33m99b0331[m Merge branch 'add-info'
+[33me1deae9[m Add personal info
+A	info.txt
+[33m6a30d0d[m Add README with personal info
+A	README.md
